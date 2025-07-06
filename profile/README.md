@@ -8,16 +8,7 @@ Welcome to the official GitHub organization for the `**GPLMS FREE SOFTWARE**`, a
 
 > To provide an accessible, flexible, and efficient library management solution built by the community, for the community.
 
----
 
-## What We Offer
-
-- Open-source library management tool  
-- Modular and extensible design  
-- Community development  
-- Ideal for schools, universities, public libraries, and more
-
----
 
 ## Join the Community
 
