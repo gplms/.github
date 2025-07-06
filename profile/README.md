@@ -1,6 +1,6 @@
 # THE GPLMS ORGANISATION
 
-Welcome to the official GitHub organization for the **`GPLMS FREE SOFTWARE`**, a community-driven initiative to create powerful, easy-to-use, and fully open-source software for managing libraries of all types.
+Welcome to the official GitHub organization for the **`GPLMS FREE SOFTWARE`**, a community, driven to create a powerful, easy-to-use, and fully open-source software for managing libraries of all types.
 
 
 ### Our Mission
