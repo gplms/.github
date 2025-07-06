@@ -1,4 +1,3 @@
-
 <div align = "center">
   
 # GPLMS (Open Source General Purpose Library Management System)
