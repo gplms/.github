@@ -10,7 +10,7 @@ Welcome to the official GitHub organization for the **`GPLMS FREE SOFTWARE`**, a
 
 ### Join us
 
-We welcome contributors of all skill levels. Whether you're a developer, designer, librarian, or simply passionate about open-source software, your input is valued and appreciated.
+We welcome contributors of all skill levels. Whether you're a developer, designer, or simply passionate about open-source software, your input is valued and appreciated.
 
 
 ### Contact
